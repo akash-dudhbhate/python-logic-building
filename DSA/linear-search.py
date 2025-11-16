@@ -31,7 +31,7 @@ Handle both “found” and “not found” cases.
 
 '''
 
-arr = [5, 10, 15, 20, 25]
+arr = [5, 10, 15, 20, 25, 30]
 target = 30
 
 for i,val in enumerate(arr):
